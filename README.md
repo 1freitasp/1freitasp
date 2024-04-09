@@ -5,12 +5,6 @@
 
 📚-> I'm currently finishing high school, and I intend to become a front end developer in the future!
 
-<div>
-<a href="https://github.com/1freitasp">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1freitasp&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=1freitasp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ## Contatos:
 
 <div>
