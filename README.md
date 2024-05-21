@@ -1,9 +1,4 @@
-### Olá 👋
-
-# 👋 Hello! Welcome to my Github profile.
-## My name is Pedro Henrique and my nickname is "1freitasp"!
-
-📚-> I'm currently finishing high school, and I intend to become a front end developer in the future!
+estudante
 
 ## Contatos:
 
