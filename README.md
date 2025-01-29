@@ -10,4 +10,4 @@
 
 ###
 
-<p align="left">Mais informações sobre minha vida acadêmica/pessoal podem ser encontradas no meu Linkedin ou Instagram.</p>
+<p align="left">Mais informações sobre minha vida acadêmica/pessoal no meu Linkedin ou Instagram.</p>
