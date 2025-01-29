@@ -6,4 +6,8 @@
 
 ###
 
-<p align="left">Me chamo Pedro Henrique Freitas, sou estudante do bacharelado em Ciências e Tec. na UFERSA. Gosto de conhecer e criar! mais informações sobre minha vida acadêmica/pessoal podem ser encontradas no meu Linkedin ou Instagram.</p>
+<p align="left">Me chamo Pedro Henrique Freitas, sou estudante do bacharelado em Ciências e Tec. na UFERSA.</p>
+
+###
+
+<p align="left">Mais informações sobre minha vida acadêmica/pessoal podem ser encontradas no meu Linkedin ou Instagram.</p>
