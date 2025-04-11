@@ -1,1 +1,1 @@
-Software development enthusiast
+Software development & AI enthusiast
